@@ -1,4 +1,4 @@
-# Data Analysis Reports: Customer and Product Insights
+# Customer and Product Insights
 
 This repository contains two separate data analysis reports based on the same dataset. The analysis focuses on understanding **customer behaviors** and **product performance** within the context of sales data.
 
@@ -6,7 +6,6 @@ This repository contains two separate data analysis reports based on the same da
 
 - [Customer Report](./CUSTOMERS%20REPORT/)
 - [Product Report](./PRODUCTS%20REPORT/)
-- 
 
 # Customer Report
 
@@ -43,7 +42,7 @@ This repository contains two separate data analysis reports based on the same da
   
 - **Customer Insights**: The age group classification can help in targeted marketing campaigns tailored to different demographics. For example, specific product offerings or promotions can be designed for certain age groups or based on recency of purchase.
 
-Please see the - [Customer Report SQL](./CUSTOMERS%20REPORT/Customers%20Report.sql) for  SQL queries used in this analysis.
+Please see the [Customer Report SQL](./CUSTOMERS%20REPORT/Customers%20Report.sql) for  SQL queries used in this analysis.
 
 
 
@@ -99,6 +98,6 @@ Please see the - [Customer Report SQL](./CUSTOMERS%20REPORT/Customers%20Report.s
 
 - **Customer Insights**: The **market share** metric shows how well a product is penetrating the customer base and can be used to refine targeting strategies.
 
-Please see the - [Product Report SQL](./PRODUCTS%20REPORT/Products%20Report.sql) for SQL queries used in this analysis.
+Please see the [Product Report SQL](./PRODUCTS%20REPORT/Products%20Report.sql) for SQL queries used in this analysis.
 
 
