@@ -4,7 +4,7 @@ This repository contains two separate data analysis reports based on the same da
 
 ## Table of Contents
 
-- [Customer Report](./Customers-Report/README.md)
+- [Customer Report](#CUSTOMERS-REPORT)
 
 - [Product Report](./PRODUCTS-REPORT/README.md)
 
