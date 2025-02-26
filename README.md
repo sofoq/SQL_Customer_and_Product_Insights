@@ -30,7 +30,6 @@ This repository contains two separate data analysis reports based on the same da
   - **Average Order Value**: The average sales amount per order for each customer.
   - **Average Monthly Spend**: The average spend per month over the customer's lifespan.
 
-
 ## 3. Usage
 
 - **Objective**: The report helps to understand customer behaviors, including how frequently they buy, their overall spend, and how recently they interacted with the brand.
@@ -42,16 +41,14 @@ This repository contains two separate data analysis reports based on the same da
   
 - **Customer Insights**: The age group classification can help in targeted marketing campaigns tailored to different demographics. For example, specific product offerings or promotions can be designed for certain age groups or based on recency of purchase.
 
-Please see the [Customer Report SQL](./CUSTOMERS%20REPORT/Customers%20Report.sql) for  SQL queries used in this analysis.
-
-
+Please see the [Customer Report SQL](./CUSTOMERS%20REPORT/Customers%20Report.sql) for SQL queries used in this analysis.
 
 # Product Report
 
 ## 1. Summary
 
 - This SQL script generates a detailed product performance report by analyzing key metrics such as total sales, quantity, profit margin, and pricing segmentation.
-- The script first aggregates data, then segments products into various categories.   The final output is a comprehensive report with metrics on product sales performance, customer interaction, and segmentation.
+- The script first aggregates data, then segments products into various categories. The final output is a comprehensive report with metrics on product sales performance, customer interaction, and segmentation.
 
 ## 2. Key Insights
 
@@ -99,5 +96,3 @@ Please see the [Customer Report SQL](./CUSTOMERS%20REPORT/Customers%20Report.sql
 - **Customer Insights**: The **market share** metric shows how well a product is penetrating the customer base and can be used to refine targeting strategies.
 
 Please see the [Product Report SQL](./PRODUCTS%20REPORT/Products%20Report.sql) for SQL queries used in this analysis.
-
-
