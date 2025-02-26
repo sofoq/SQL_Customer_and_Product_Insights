@@ -78,6 +78,6 @@ The report includes SQL queries that provide the following insights:
 - Product category performance analysis
 - Visualizations (if applicable) showing trends in product sales, pricing, and revenue
 
-Please see the `Products_Report.sql` for all SQL queries used in this analysis.
+Please see the - [Product Report SQL](./PRODUCTS%20REPORT/Products%20Report.sql) for all SQL queries used in this analysis.
 
 
