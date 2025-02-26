@@ -4,7 +4,7 @@ This repository contains two separate data analysis reports based on the same da
 
 ## Table of Contents
 
-- [Customer Report](./CUSTOMERS-REPORT/README.md)
+- [Customer Report](./CUSTOMERS REPORT/README.md)
 - [Product Report](./PRODUCTS-REPORT/README.md)
 
 The analyses in these reports provide insights into customer preferences, buying patterns, product performance, and key sales metrics.
