@@ -1,21 +1,21 @@
-# Customer and Product Insights
+# 📊 Customer and Product Insights
 
 This repository contains two separate data analysis reports based on the same dataset. The analysis focuses on understanding **customer behaviors** and **product performance** within the context of sales data.
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Customer Report](./CUSTOMERS%20REPORT/)
-- [Product Report](./PRODUCTS%20REPORT/)
+- [👥 Customer Report](./CUSTOMERS%20REPORT/)
+- [📦 Product Report](./PRODUCTS%20REPORT/)
 
-# Customer Report
+# 👥 Customer Report
 
-## 1. Summary
+## 1. 📝 Summary
 
 - This SQL script analyzes customer behavior based on sales data by aggregating key metrics and segmenting customers into meaningful categories.
 - The script extracts customer details and sales data, calculates essential metrics like total orders, total sales, and average order value, and classifies customers into segments such as "VIP," "Regular," and "New."
 - The report also includes a classification by age group, recency of the last order, and average monthly spend based on customer lifespan.
 
-## 2. Key Insights
+## 2. 🔑 Key Insights
 
 - **Customer Segmentation**: Customers are categorized into three groups based on their total sales and lifespan:
   - **VIP**: Customers with a lifespan of 12+ months and sales greater than 5000.
@@ -30,7 +30,7 @@ This repository contains two separate data analysis reports based on the same da
   - **Average Order Value**: The average sales amount per order for each customer.
   - **Average Monthly Spend**: The average spend per month over the customer's lifespan.
 
-## 3. Usage
+## 3. 🎯 Usage
 
 - **Objective**: The report helps to understand customer behaviors, including how frequently they buy, their overall spend, and how recently they interacted with the brand.
   
@@ -43,14 +43,14 @@ This repository contains two separate data analysis reports based on the same da
 
 Please see the [Customer Report SQL](./CUSTOMERS%20REPORT/Customers%20Report.sql) for SQL queries used in this analysis.
 
-# Product Report
+# 📦 Product Report
 
-## 1. Summary
+## 1. 📝 Summary
 
 - This SQL script generates a detailed product performance report by analyzing key metrics such as total sales, quantity, profit margin, and pricing segmentation.
 - The script first aggregates data, then segments products into various categories. The final output is a comprehensive report with metrics on product sales performance, customer interaction, and segmentation.
 
-## 2. Key Insights
+## 2. 🔑 Key Insights
 
 - **Product Segmentation**:
   - **Price Category**: Products are classified into three categories:
@@ -79,7 +79,7 @@ Please see the [Customer Report SQL](./CUSTOMERS%20REPORT/Customers%20Report.sql
   - **Market Share**: The proportion of customers purchasing the product compared to the total customer base.
   - **Average Monthly Sales & Volume**: Calculated based on the product's lifespan.
 
-## 3. Usage
+## 3. 🎯 Usage
 
 - **Objective**: This report is designed to help businesses assess their product performance, identify high-performing products, and understand pricing and profitability trends.
   
