@@ -45,10 +45,13 @@ Please see the [Customer Insights](./CUSTOMERS%20REPORT/Customer%20Insights.sql)
 
 # 📦 Product Report
 
-## 1. 📝 Summary
+1. 📝 Summary
+This SQL script generates a detailed product performance report by analyzing key metrics such as total sales, quantity, profit margin, and pricing segmentation. The script first aggregates data, then segments products into various categories. The final output is a comprehensive report with metrics on product sales performance, customer interaction, and segmentation.
 
-- This SQL script generates a detailed product performance report by analyzing key metrics such as total sales, quantity, profit margin, and pricing segmentation.
-- The script first aggregates data, then segments products into various categories. The final output is a comprehensive report with metrics on product sales performance, customer interaction, and segmentation.
+Key Operations:
+Aggregation: The script uses various aggregation functions to calculate total sales, total quantity, average sales, and profitability metrics.
+Segmentation: Products are classified into categories such as price, profitability, sales performance, and age, which help to identify trends and make strategic decisions.
+Advanced Functions: The report makes use of advanced SQL features like **window functions, Common Table Expressions (CTE), procedures, and aggregate functions** to deliver a dynamic and detailed analysis of product data.
 
 ## 2. 🔑 Key Insights
 
