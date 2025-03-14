@@ -9,7 +9,7 @@ This repository contains two separate data analysis reports based on the same da
 
 # 👥 Customer Report
 
-## 1. 📝 Summary
+## 1. 📝 Summary 
 
 - This SQL script analyzes customer behavior based on sales data by aggregating key metrics and segmenting customers into meaningful categories.
 - The script extracts customer details and sales data, calculates essential metrics like total orders, total sales, and average order value, and classifies customers into segments such as "VIP," "Regular," and "New."
