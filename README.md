@@ -51,7 +51,7 @@ This SQL script generates a detailed product performance report by analyzing key
 ## Key Operations:
 - **Aggregation**: The script uses various aggregation functions to calculate total sales, total quantity, average sales, and profitability metrics. 
 - **Segmentation**: Products are classified into categories such as price, profitability, sales performance, and age, which help to identify trends and make strategic decisions. 
-- **Advanced Functions**: The report makes use of advanced SQL features like **window functions, Common Table Expressions (CTE), procedures, and aggregate functions ** to deliver a dynamic and detailed analysis of product data.
+- **Advanced Functions**: The report makes use of advanced SQL features like **window functions, Common Table Expressions (CTE), procedures, and aggregate functions** to deliver a dynamic and detailed analysis of product data.
 
 
 ## 2. 🔑 Key Insights
