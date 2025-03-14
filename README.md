@@ -99,4 +99,4 @@ This SQL script generates a detailed product performance report by analyzing key
 
 - **Customer Insights**: The **market share** metric shows how well a product is penetrating the customer base and can be used to refine targeting strategies.
 
-Please see the [Product Insights](./PRODUCTS%20REPORT/Product%20Insights.sql) for SQL queries used in this analysis.
+Please see the [Product Insights](./PRODUCTS%20REPORT/Products_Report.sql) for SQL queries used in this analysis.
