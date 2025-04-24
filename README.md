@@ -42,7 +42,7 @@ This repository contains two separate data analysis reports based on the same da
   
 - **Customer Insights**: The age group classification can help in targeted marketing campaigns tailored to different demographics. For example, specific product offerings or promotions can be designed for certain age groups or based on recency of purchase.
 
-Please see the [Customer Insights](./CUSTOMERS%20REPORT/Customer%20Insights.sql) for SQL queries used in this analysis.
+
 
 # 📦 Product Report
 
@@ -100,4 +100,4 @@ This SQL script generates a detailed product performance report by analyzing key
 
 - **Customer Insights**: The **market share** metric shows how well a product is penetrating the customer base and can be used to refine targeting strategies.
 
-Please see the [Product Insights](./PRODUCTS%20REPORT/Products_Report.sql) for SQL queries used in this analysis.
+
