@@ -4,7 +4,7 @@ This repository contains two separate data analysis reports based on the same da
 
 ## 📑 Table of Contents
 
-- [👥 Customer Report](./CUSTOMERS%20REPORT/Customer Insights.sql)
+- [👥 Customer Report](./CUSTOMERS%20REPORT/Customer Insights.sql/)
 
 - [📦 Product Report](./PRODUCTS%20REPORT/)
 
