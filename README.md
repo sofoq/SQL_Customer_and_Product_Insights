@@ -2,7 +2,7 @@
 
 This repository contains two separate data analysis reports based on the same dataset. The analysis focuses on understanding **customer behaviors** and **product performance** within the context of sales data.
 
-## 📑 Table of Contents
+## 📑 SQL Queries
 
 - [👥 Customer Report](https://github.com/sofoq/SQL_Customer_and_Product_Insights/blob/main/CUSTOMERS%20REPORT/Customer%20Insights.sql)
 - [📦 Product Report](https://github.com/sofoq/SQL_Customer_and_Product_Insights/blob/main/PRODUCTS%20REPORT/Products_Report.sql)
