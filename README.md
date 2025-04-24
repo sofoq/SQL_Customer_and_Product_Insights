@@ -4,7 +4,8 @@ This repository contains two separate data analysis reports based on the same da
 
 ## 📑 Table of Contents
 
-- [👥 Customer Report](./CUSTOMERS%20REPORT/)
+- [👥 Customer Report](https://github.com/your-username/your-repo/blob/main/CUSTOMERS%20REPORT/customer_analysis.sql)
+
 - [📦 Product Report](./PRODUCTS%20REPORT/)
 
 # 👥 Customer Report
