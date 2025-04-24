@@ -4,8 +4,9 @@ This repository contains two separate data analysis reports based on the same da
 
 ## 📑 Table of Contents
 
-[👥 Customer Report](https://github.com/sofoq/SQL_Customer_and_Product_Insights/blob/main/CUSTOMERS%20REPORT/Customer%20Insights.sql)
-- [📦 Product Report](./PRODUCTS%20REPORT/)
+- [👥 Customer Report](https://github.com/sofoq/SQL_Customer_and_Product_Insights/blob/main/CUSTOMERS%20REPORT/Customer%20Insights.sql)
+- [📦 Product Report](https://github.com/sofoq/SQL_Customer_and_Product_Insights/blob/main/PRODUCTS%20REPORT/Products_Report.sql)
+
 
 # 👥 Customer Report
 
